@@ -21,7 +21,7 @@ dl {
 
 dt {
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 16px;
 }
 
 dd {
@@ -29,6 +29,10 @@ dd {
   margin-left: 14px;
   margin-right: 28px;
   margin-bottom: 14px;
+}
+
+.admonition.warning {
+  background: #d50000;
 }
 
 /* author related info */
@@ -80,7 +84,6 @@ section.author p.attr {
   text-transform: uppercase;
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
 }
-
 
 section.author p.attr {
   margin-bottom: 2px;
