@@ -112,3 +112,7 @@ div.authorimage {
 section.author {
   overflow: hidden;
 }
+
+pre {
+  font-size: 0.7em;
+}
